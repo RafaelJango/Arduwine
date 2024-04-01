@@ -1,4 +1,4 @@
-# Arduwine
+# Arduwine 1.0
 
 A ArduWine é uma empresa de soluções tecnológicas para vinícolas, liderada por Rafael Jango, Rafael Bocchi, Arthur Amaral, Caue Garaude e Luiz Henrique. Com uma equipe dedicada, buscamos otimizar processos e garantir a excelência na produção de vinhos.
 
