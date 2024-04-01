@@ -36,7 +36,3 @@ Este é um projeto para Arduino que controla três LEDs com base na intensidade 
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias no código ou na documentação.
-
-## Licença
-
-Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
